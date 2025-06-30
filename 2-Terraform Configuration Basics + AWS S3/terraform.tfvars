@@ -1,0 +1,1 @@
+bucket_name = "ketan-terraform-testing-s3-bucket"

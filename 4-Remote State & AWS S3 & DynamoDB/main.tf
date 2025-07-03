@@ -1,5 +1,5 @@
 terraform {
-  backend "aws" {
+  backend "s3" {
     bucket = "ketan-terraform-state-bucket-new"
     key = "dev/network/terraform.tfstate"
     region = "ap-south-1"
